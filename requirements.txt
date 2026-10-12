@@ -1,0 +1,8 @@
+torch>=2.0
+numpy<2
+opencv-python
+plyfile
+rembg
+onnxruntime
+imageio
+pytest
